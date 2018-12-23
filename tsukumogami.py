@@ -1,4 +1,4 @@
-import urllib.reques
+import urllib.request
 import lxml.html
 from mastodon import Mastodon
 from bs4 import BeautifulSoup
